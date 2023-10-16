@@ -1,0 +1,11 @@
+C:\Users\Ali Emeksizler\Desktop\Yeni klasör\görsel\bin\Debug\görsel.exe.config
+C:\Users\Ali Emeksizler\Desktop\Yeni klasör\görsel\bin\Debug\görsel.exe
+C:\Users\Ali Emeksizler\Desktop\Yeni klasör\görsel\bin\Debug\görsel.pdb
+C:\Users\Ali Emeksizler\Desktop\Yeni klasör\görsel\obj\Debug\görsel.csproj.AssemblyReference.cache
+C:\Users\Ali Emeksizler\Desktop\Yeni klasör\görsel\obj\Debug\görsel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ali Emeksizler\Desktop\Yeni klasör\görsel\obj\Debug\görsel.Form1.resources
+C:\Users\Ali Emeksizler\Desktop\Yeni klasör\görsel\obj\Debug\görsel.Properties.Resources.resources
+C:\Users\Ali Emeksizler\Desktop\Yeni klasör\görsel\obj\Debug\görsel.csproj.GenerateResource.cache
+C:\Users\Ali Emeksizler\Desktop\Yeni klasör\görsel\obj\Debug\görsel.csproj.CoreCompileInputs.cache
+C:\Users\Ali Emeksizler\Desktop\Yeni klasör\görsel\obj\Debug\görsel.exe
+C:\Users\Ali Emeksizler\Desktop\Yeni klasör\görsel\obj\Debug\görsel.pdb
